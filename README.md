@@ -1,9 +1,8 @@
-<H3>Name: LAAKSHIT D</H3>
-<H3>Register no. 212222230071</H3>
-<H3>Date</H3>
-<H3>Experiment No. 2 </H3>
+<H3>EX NO. 2 </H3>
+<H3>Date:</H3>
 
 # Implementation of Perceptron for Binary Classification
+
 ## AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -45,7 +44,7 @@ STEP 9:For ‘N ‘ iterations ,do the following:<BR>
 STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 
-#@ PROGRAM:
+## PROGRAM:
 
 ```python
 import numpy as np
