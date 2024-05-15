@@ -1,7 +1,7 @@
 <H3>EX NO. 2 </H3>
 <H3>Date:</H3>
 
-# Implementation of Perceptron for Binary Classification
+<H1 aligh = center> Implementation of Perceptron for Binary Classification </H1>
 
 ## AIM:
 To implement a perceptron for classification using Python<BR>
@@ -45,7 +45,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 
 ## PROGRAM:
-
+### NAME : LAAKSHIT D
+### REGISTER NO. 212222230071
 ```python
 import numpy as np
 import pandas as pd
